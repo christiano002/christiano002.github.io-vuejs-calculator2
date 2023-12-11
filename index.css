@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.panel {
+    background: beige;
+}
+
+#result {
+    height: 40px;
+    width: 150px;
+    background: #8D8D81;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.btn {
+    padding-left: 10px;
+    padding-right: 10px;
+}
